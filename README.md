@@ -5,7 +5,7 @@ A fast, highly responsive Student Scoreboard application built using **React** a
 ---
 
 ## 🚀 Live Link
-** **
+
 
 ---
 

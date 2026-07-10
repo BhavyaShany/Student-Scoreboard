@@ -6,6 +6,7 @@ A fast, highly responsive Student Scoreboard application built using **React** a
 
 ## 🚀 Live Link
 
+https://studentscoreboard-alpha.vercel.app/
 
 ---
 
